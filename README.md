@@ -1,4 +1,4 @@
-eloquentJSsolutions
+eloquent JS solutions
 ===================
 
-http://eloquentjavascript.net/ - solutions to exercises
+Solutions to the exercises in Eloquent JavaScript (http://eloquentjavascript.net/)
